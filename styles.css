@@ -1,0 +1,51 @@
+h1 {
+	font-size: 0.7rem;
+	text-transform: uppercase;
+}
+
+body {
+	background-color: grey;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+		Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.uno span {
+	text-transform: initial;
+}
+
+.container {
+	width: 400px;
+	height: 500px;
+	background-color: white;
+	margin: auto;
+}
+
+.uno {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 400px;
+	height: 30px;
+	background-color: white;
+}
+
+.dos img {
+	width: 400px;
+	height: 200px;
+}
+
+.tres {
+	width: 400px;
+	height: 30px;
+	background-color: white;
+}
+
+.cuatro {
+	background-color: white;
+}
+
+.cinco {
+	background-color: white;
+	width: 400px;
+	height: 100px;
+}
